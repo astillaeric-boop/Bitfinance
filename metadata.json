@@ -1,0 +1,8 @@
+{
+  "name": "Bit Finance Long Term Investments",
+  "description": "Bit Finance Long Term Investments - High-yield investment plans, MLM referral network, real-time wallet transactions, mini roulette, and secure MariaDB backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
